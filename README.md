@@ -40,3 +40,5 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=dongyubin&show_icons=true"><p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongyubin&layout=compact"><p>
+  
+[![](https://visitcount.itsvg.in/api?id=dongyubin&label=%E8%AE%BF%E5%AE%A2%E6%95%B0&pretty=false)](https://visitcount.itsvg.in)
