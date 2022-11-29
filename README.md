@@ -1,11 +1,13 @@
-# Hi there 👋, My name is 斌仔
+# 你好 👋, 我是 斌仔
 
 <img width="100%" src="https://pic1.xuehuaimg.com/proxy/https://cdn.jsdelivr.net/gh/dongyubin/WP-CDN-02/2022/202205260953848.png" alt="my banner">
 
-我是文武科技社的主笔
+我是『[文武科技社](https://blog.wangdu.site/)&[文武科技柜](https://www.wangdu.site)』的主笔
 
 ## 💫 Liitle Bit More About Me
 <p>All of my projects are available at <a href="https://www.wangdu.site">文武科技柜</a></p>
+
+- [写作导航页](https://wwtools.vercel.app/)
 
 ## 💻 Skills
 <p>
