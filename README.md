@@ -37,10 +37,16 @@
 
 ## 📊 Github Status
 
-<p><img src="https://activity-graph.herokuapp.com/graph?username=dongyubin"><p>
-
 <p><img src="https://github-readme-stats.vercel.app/api?username=dongyubin&show_icons=true"><p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongyubin&layout=compact"><p>
   
-[![](https://visitcount.itsvg.in/api?id=dongyubin&label=%E8%AE%BF%E5%AE%A2%E6%95%B0&pretty=false)](https://visitcount.itsvg.in)
+## Top Repositories
+<a href="https://github.com/dongyubin/Free-AppleId-Serve">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dongyubin&repo=Free-AppleId-Serve&theme=buefy" />
+</a>
+<a href="https://github.com/dongyubin/nuc8i5beh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dongyubin&repo=nuc8i5beh&theme=buefy" />
+</a>
+  
+![](https://visitcount.itsvg.in/api?id=dongyubin&label=%E8%AE%BF%E5%AE%A2%E6%95%B0&pretty=false)
