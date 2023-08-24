@@ -49,4 +49,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dongyubin&repo=nuc8i5beh&theme=buefy" />
 </a>
   
-![](https://visitcount.itsvg.in/api?id=dongyubin&label=%E8%AE%BF%E5%AE%A2%E6%95%B0&pretty=false)
+![](https://counter.oba.by/get/@dongyubin)
