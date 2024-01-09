@@ -33,16 +33,31 @@
 
 ## 📊 Github Status
 
+<table width="960px">
+<tr>
+<td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=dongyubin&show_icons=true">
+</td>
+<td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongyubin&layout=compact">
+</td>
+</tr>
+</table>
 
 ## 🚀 Top Repositories
-
+<table width="960px">
+<tr>
+<td valign="top" width="50%">
 <a href="https://github.com/dongyubin/Free-AppleId-Serve">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dongyubin&repo=Free-AppleId-Serve&theme=buefy" />
 </a>
+</td>
+<td valign="top" width="50%">
 <a href="https://github.com/dongyubin/nuc8i5beh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dongyubin&repo=nuc8i5beh&theme=buefy" />
 </a>
+</td>
+</tr>
+</table>
 
-![](https://counter.oba.by/get/@dongyubin?theme=rule34)
+<img align="center" src="https://counter.oba.by/get/@dongyubin?theme=rule34" />
