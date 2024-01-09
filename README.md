@@ -66,7 +66,7 @@
 <td valign="top" width="50%">
 <!-- blog starts -->
 
-<!-- blog end -->
+<!-- blog ends -->
 </td>
 </tr>
 </table>
