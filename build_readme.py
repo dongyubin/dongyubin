@@ -122,7 +122,7 @@ def fetch_blog_entries():
             # .split("#")[0]
             "url": entry["link"],
             # .split("T")[0]
-            "published": entry["pubDate"],
+            "published": datetime.strptime(entry["published"], "%a, %d %b %Y %H:%M:%S %z").strftime("%Y-%m-%d %H:%M:%S")
         }
         for entry in entries
     ]
