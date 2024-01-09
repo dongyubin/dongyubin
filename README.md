@@ -60,4 +60,15 @@
 </tr>
 </table>
 
+## 🤾‍♂️ <a href="https://www.wangdu.site" target="_blank">Recent Blog</a>
+<table width="960px">
+<tr>
+<td valign="top" width="50%">
+<!-- blog starts -->
+
+<!-- blog end -->
+</td>
+</tr>
+</table>
+
 <img align="center" src="https://counter.oba.by/get/@dongyubin?theme=rule34" />
