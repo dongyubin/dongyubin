@@ -33,11 +33,11 @@
 
 ## 📊 Github Status
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=dongyubin&show_icons=true"><p>
+<img src="https://github-readme-stats.vercel.app/api?username=dongyubin&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongyubin&layout=compact">
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongyubin&layout=compact"><p>
+## 🚀 Top Repositories
 
-## Top Repositories
 <a href="https://github.com/dongyubin/Free-AppleId-Serve">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dongyubin&repo=Free-AppleId-Serve&theme=buefy" />
 </a>
