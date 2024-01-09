@@ -1,4 +1,4 @@
-# 你好 👋, 我是 斌仔
+# 你好 <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> , 我是 斌仔
 
 <img width="100%" src="https://pic1.xuehuaimg.com/proxy/https://cdn.jsdelivr.net/gh/dongyubin/WP-CDN-02/2022/202205260953848.png" alt="my banner">
 
