@@ -9,6 +9,10 @@
 
 - [写作导航页](https://wwtools.vercel.app/)
 
+<table width="960px">
+<tr>
+<td valign="top" width="50%">
+
 ## 💻 Skills
 <p>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px">
@@ -17,53 +21,35 @@
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" style="margin-bottom: 4px;" height="30px">
 </p>
 
-## 🌟 Github Badges
-<p>
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" height="24px">
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" height="24px">
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="24px">
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" height="24px">
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" height="24px">
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongyubin&layout=compact">
 
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=dongyubin">
-</p>
+</td>
+<td valign="top" width="50%">
 
 ## 📊 Github Status
 
-<table width="960px">
+<img src="https://github-readme-stats.vercel.app/api?username=dongyubin&show_icons=true">
+
+
+</td>
 <tr>
 <td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=dongyubin&show_icons=true">
-</td>
-<td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongyubin&layout=compact">
-</td>
-</tr>
-</table>
 
 ## 🚀 Top Repositories
-<table width="960px">
-<tr>
-<td valign="top" width="50%">
+
 <a href="https://github.com/dongyubin/Free-AppleId-Serve">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dongyubin&repo=Free-AppleId-Serve&theme=buefy" />
 </a>
-</td>
-<td valign="top" width="50%">
+
 <a href="https://github.com/dongyubin/nuc8i5beh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dongyubin&repo=nuc8i5beh&theme=buefy" />
 </a>
+
 </td>
-</tr>
-</table>
+
+<td valign="top" width="50%">
 
 ## 🤾‍♂️ <a href="https://www.wangdu.site" target="_blank">Recent Blog</a>
-<table width="960px">
-<tr>
-<td valign="top" width="50%">
 
 <!-- blog starts -->
 
