@@ -8,6 +8,7 @@
 <p>All of my projects are available at <a href="https://www.wangdu.site">文武科技柜</a></p>
 
 - [写作导航页](https://wwtools.vercel.app/)
+- [文武杂货铺](https://home.wwkejishe.top/)
 
 <table width="960px">
 <tr>
@@ -49,7 +50,6 @@
 </a>
 
 </td>
-
 <td valign="top" width="50%">
 
 ## 🤾‍♂️ <a href="https://www.wangdu.site" target="_blank">Recent Blog</a>
@@ -69,4 +69,6 @@
 </tr>
 </table>
 
+<center>
 <img align="center" src="https://counter.oba.by/get/@dongyubin?theme=rule34" />
+</center>
