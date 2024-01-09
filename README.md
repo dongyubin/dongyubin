@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://pic1.xuehuaimg.com/proxy/https://cdn.jsdelivr.net/gh/dongyubin/WP-CDN-02/2022/202205260953848.png" alt="my banner">
 
-我是『[文武科技社](https://blog.wangdu.site/)&[文武科技柜](https://www.wangdu.site)』的主笔
+我是『[文武科技社](https://blog.wangdu.site/) & [文武科技柜](https://www.wangdu.site)』的主笔
 
 ## 💫 Liitle Bit More About Me
 <p>All of my projects are available at <a href="https://www.wangdu.site">文武科技柜</a></p>
@@ -15,10 +15,6 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" style="margin-bottom: 4px;" height="30px">
-</p>
-
-## 👥 Connect With Me
-<p>
 </p>
 
 ## 🌟 Github Badges
@@ -40,7 +36,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=dongyubin&show_icons=true"><p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongyubin&layout=compact"><p>
-  
+
 ## Top Repositories
 <a href="https://github.com/dongyubin/Free-AppleId-Serve">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dongyubin&repo=Free-AppleId-Serve&theme=buefy" />
@@ -48,5 +44,5 @@
 <a href="https://github.com/dongyubin/nuc8i5beh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dongyubin&repo=nuc8i5beh&theme=buefy" />
 </a>
-  
+
 ![](https://counter.oba.by/get/@dongyubin?theme=rule34)
