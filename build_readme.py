@@ -48,5 +48,7 @@ if __name__ == "__main__":
             for entry in entries
         ]
     )
-    replace_chunk(readme_contents, "blog", entries_md)
+    print("Number of entries:", len(entries_md))
+    rewritten = replace_chunk(readme_contents, "blog", entries_md)
+    readme.open("w", encoding="utf-8").write(rewritten)
 
