@@ -38,6 +38,8 @@ if __name__ == "__main__":
     readme = root / "README.md"
     readme_contents = readme.open(encoding="utf-8").read()
     entries = fetch_blog_entries()
+    if not entries:
+       entries = fetch_blog_entries()
     entries_md = "\n".join(
         [
             "* <a href='{url}' target='_blank'>{title}</a> - {published}".format(
@@ -47,5 +49,5 @@ if __name__ == "__main__":
         ]
     )
     rewritten = replace_chunk(readme_contents, "blog", entries_md)
-    # print(rewritten)
     readme.open("w",encoding="utf-8").write(rewritten)
+
