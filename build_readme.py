@@ -39,15 +39,17 @@ if __name__ == "__main__":
     readme_contents = readme.open(encoding="utf-8").read()
     entries = fetch_blog_entries()
     if not entries:
-       entries = fetch_blog_entries()
-    entries_md = "\n".join(
-        [
-            "* <a href='{url}' target='_blank'>{title}</a> - {published}".format(
-                **entry
-            )
-            for entry in entries
-        ]
-    )
-    rewritten = replace_chunk(readme_contents, "blog", entries_md)
-    readme.open("w",encoding="utf-8").write(rewritten)
+        entries = fetch_blog_entries()
+        entries_md = "\n".join(
+            [
+                "* <a href='{url}' target='_blank'>{title}</a> - {published}".format(
+                    **entry
+                )
+                for entry in entries
+            ]
+        )
+        rewritten = replace_chunk(readme_contents, "blog", entries_md)
+    # 只有在有条目时才更新 README.md
+    if entries:
+        readme.open("w", encoding="utf-8").write(rewritten)
 
