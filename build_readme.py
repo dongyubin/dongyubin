@@ -23,15 +23,15 @@ def replace_chunk(content, marker, chunk, inline=False):
 
 
 def fetch_blog_entries():
-    entries = feedparser.parse("https://www.wangdu.site/feed").entries
-    print(entries[0]["title"])
+    entries = feedparser.parse("https://www.wangdu.site/feed")
+    feed_entries = entries["entries"]
     return [
         {
             "title": entry["title"],
             "url": entry["link"],
             "published": datetime.strptime(entry["published"], "%a, %d %b %Y %H:%M:%S %z").strftime("%Y-%m-%d %H:%M:%S")
         }
-        for entry in entries
+        for entry in feed_entries
     ]
 
 
