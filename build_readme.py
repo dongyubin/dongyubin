@@ -24,6 +24,7 @@ def replace_chunk(content, marker, chunk, inline=False):
 
 def fetch_blog_entries():
     entries = feedparser.parse("https://www.wangdu.site/feed")
+    print(entries)
     feed_entries = entries["entries"]
     return [
         {
