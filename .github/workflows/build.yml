@@ -15,19 +15,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3 # Checking out the repo
-      - name: Run with setup-python 3.9
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.9'
-          update-environment: false
-          cache: 'pipenv'
-      - name: Install pipenv
-        run: pip3 install --user pipenv
-      - name: Install dependecies
-        run:  pipenv --python python3 && pipenv install
-      - name: Build
-        run: pipenv run build
+    - uses: actions/checkout@v3 # Checking out the repo
+    - name: Run with setup-python 3.9
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        update-environment: false
+        cache: 'pipenv'
+    - name: Install pipenv
+      run: pip3 install --user pipenv
+    - name: Install dependecies
+      run:  pipenv --python python3 && pipenv install
+    - name: Build
+      run: pipenv run build
     - name: Commit
       uses: EndBug/add-and-commit@v9
       with:
