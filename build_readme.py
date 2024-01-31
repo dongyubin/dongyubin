@@ -23,7 +23,8 @@ def replace_chunk(content, marker, chunk, inline=False):
 
 
 def fetch_blog_entries():
-    entries = feedparser.parse("https://www.wangdu.site/feed")["entries"]
+    entries = feedparser.parse("https://www.wangdu.site/feed").entries
+    print(entries[0]["title"])
     return [
         {
             "title": entry["title"],
@@ -38,8 +39,6 @@ if __name__ == "__main__":
     readme = root / "README.md"
     readme_contents = readme.open(encoding="utf-8").read()
     entries = fetch_blog_entries()
-    if not entries:
-        entries = fetch_blog_entries()
     entries_md = "\n".join(
         [
             "* <a href='{url}' target='_blank'>{title}</a> - {published}".format(
@@ -48,7 +47,7 @@ if __name__ == "__main__":
             for entry in entries
         ]
     )
-    print("Number of entries:", len(entries_md))
+    # print("Number of entries:", len(entries_md))
     rewritten = replace_chunk(readme_contents, "blog", entries_md)
     readme.open("w", encoding="utf-8").write(rewritten)
 
