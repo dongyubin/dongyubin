@@ -1,14 +1,21 @@
 # 你好 <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> , 我是 斌仔
 
+<img src="https://github-widgetbox.vercel.app/api/profile?username=dongyubin&data=followers,repositories,stars,commits">
+
 <img width="100%" src="https://pic1.xuehuaimg.com/proxy/https://cdn.jsdelivr.net/gh/dongyubin/WP-CDN-02/2022/202205260953848.png" alt="my banner">
 
 我是『[文武科技社](https://blog.wangdu.site/) & [文武科技柜](https://www.wangdu.site)』的主笔
+
+
 
 ## 💫 Liitle Bit More About Me
 <p>All of my projects are available at <a href="https://www.wangdu.site">文武科技柜</a></p>
 
 - [写作导航页](https://wwtools.vercel.app/)
 - [文武杂货铺](https://home.wwkejishe.top/)
+
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dongyubin&theme=2077">
 
 <table width="960px">
 <tr>
@@ -68,6 +75,8 @@
 </td>
 </tr>
 </table>
+
+## 访客量
 
 <center>
 <img align="center" src="https://counter.oba.by/get/@dongyubin?theme=rule34" />
