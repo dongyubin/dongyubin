@@ -62,14 +62,14 @@
 ## 🤾‍♂️ <a href="https://www.wangdu.site" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://www.wangdu.site/course/2047.html' target='_blank'>WordPress AI文章总结插件，支持通义千问和星火大模型了。</a> - 2024-02-28 03:38:59
+* <a href='https://www.wangdu.site/course/2046.html' target='_blank'>WordPress插件：V免签-付费内容插件V1.6，拒绝中间商赚差价</a> - 2024-02-25 07:26:11
+* <a href='https://www.wangdu.site/course/2044.html' target='_blank'>WordPress插件：如何让博客支持Gemini AI文章摘要</a> - 2024-02-22 06:42:28
+* <a href='https://www.wangdu.site/software/ai/2037.html' target='_blank'>OpenAI Sora Prompts 合集</a> - 2024-02-19 03:30:46
 * <a href='https://www.wangdu.site/software/ai/2033.html' target='_blank'>使用Coze实现免费使用GPT4和DALL·E 3绘画</a> - 2024-02-07 06:38:24
 * <a href='https://www.wangdu.site/software/bianchengkaifa/2031.html' target='_blank'>Windows Terminal + Powershell7，这才是终端该有样子。</a> - 2024-02-03 13:14:44
 * <a href='https://www.wangdu.site/course/2027.html' target='_blank'>WordPress教程：如何给博客添加热力图</a> - 2024-01-20 05:01:31
 * <a href='https://www.wangdu.site/course/2023.html' target='_blank'>UnRaid+PandoraNext：打造专属自己的ChatGPT-4系统</a> - 2024-01-13 03:59:41
-* <a href='https://www.wangdu.site/fuliyouhui/2019.html' target='_blank'>可在中国漫游的新西兰 Skinny电话卡</a> - 2024-01-03 08:19:19
-* <a href='https://www.wangdu.site/daily/2005.html' target='_blank'>年终总结：回首2023，展望2024</a> - 2024-01-02 08:50:28
-* <a href='https://www.wangdu.site/fuliyouhui/1991.html' target='_blank'>RackNerd新年促销，便宜VPS低至$11/年～</a> - 2023-12-27 03:05:25
-* <a href='https://www.wangdu.site/software/av-read/1989.html' target='_blank'>Zlibrary镜像网站：免费图书下载的新天地</a> - 2023-12-21 07:29:58
 <!-- blog ends -->
 
 </td>
