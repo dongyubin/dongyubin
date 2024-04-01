@@ -62,14 +62,14 @@
 ## 🤾‍♂️ <a href="https://www.wangdu.site" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://www.wangdu.site/software/ui/2053.html' target='_blank'>免费创意字体logo设计在线生成网站(可商用、无水印)</a> - 2024-03-19 03:00:57
+* <a href='https://www.wangdu.site/software/bianchengkaifa/2052.html' target='_blank'>非常适合个人搭建博客—WordPress开源主题汇总</a> - 2024-03-17 03:03:47
+* <a href='https://www.wangdu.site/course/2050.html' target='_blank'>WordPress AI文章总结插件，支持智谱AI、文心大模型、Groq了。</a> - 2024-03-05 12:57:34
 * <a href='https://www.wangdu.site/course/2047.html' target='_blank'>WordPress AI文章总结插件，支持通义千问和星火大模型了。</a> - 2024-02-28 03:38:59
 * <a href='https://www.wangdu.site/course/2046.html' target='_blank'>WordPress插件：V免签-付费内容插件V1.6，拒绝中间商赚差价</a> - 2024-02-25 07:26:11
 * <a href='https://www.wangdu.site/course/2044.html' target='_blank'>WordPress插件：如何让博客支持Gemini AI文章摘要</a> - 2024-02-22 06:42:28
 * <a href='https://www.wangdu.site/software/ai/2037.html' target='_blank'>OpenAI Sora Prompts 合集</a> - 2024-02-19 03:30:46
 * <a href='https://www.wangdu.site/software/ai/2033.html' target='_blank'>使用Coze实现免费使用GPT4和DALL·E 3绘画</a> - 2024-02-07 06:38:24
-* <a href='https://www.wangdu.site/software/bianchengkaifa/2031.html' target='_blank'>Windows Terminal + Powershell7，这才是终端该有样子。</a> - 2024-02-03 13:14:44
-* <a href='https://www.wangdu.site/course/2027.html' target='_blank'>WordPress教程：如何给博客添加热力图</a> - 2024-01-20 05:01:31
-* <a href='https://www.wangdu.site/course/2023.html' target='_blank'>UnRaid+PandoraNext：打造专属自己的ChatGPT-4系统</a> - 2024-01-13 03:59:41
 <!-- blog ends -->
 
 </td>
