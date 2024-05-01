@@ -62,14 +62,14 @@
 ## 🤾‍♂️ <a href="https://www.wangdu.site" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://www.wangdu.site/software/2080.html' target='_blank'>iPao：一款AI单栏简约WordPress个人博客主题</a> - 2024-04-27 06:32:07
+* <a href='https://www.wangdu.site/software/ai/2077.html' target='_blank'>Kimi Chat: 探索智能对话助手的多种用途</a> - 2024-04-24 08:26:46
+* <a href='https://www.wangdu.site/course/2075.html' target='_blank'>WordPress AI文章总结插件使用指南，支持10款AI大模型</a> - 2024-04-20 06:28:46
+* <a href='https://www.wangdu.site/course/2074.html' target='_blank'>独立开发者出海导航，离赚美元更进一步</a> - 2024-04-18 13:06:29
+* <a href='https://www.wangdu.site/software/tools/2073.html' target='_blank'>站长必备5：域名比价服务汇总，帮你少花冤枉钱</a> - 2024-04-18 01:52:43
+* <a href='https://www.wangdu.site/fuliyouhui/2071.html' target='_blank'>小报童栏目精选，帮助你不花冤枉钱</a> - 2024-04-16 07:36:06
 * <a href='https://www.wangdu.site/software/ui/2053.html' target='_blank'>免费创意字体logo设计在线生成网站(可商用、无水印)</a> - 2024-03-19 03:00:57
 * <a href='https://www.wangdu.site/software/bianchengkaifa/2052.html' target='_blank'>非常适合个人搭建博客—WordPress开源主题汇总</a> - 2024-03-17 03:03:47
-* <a href='https://www.wangdu.site/course/2050.html' target='_blank'>WordPress AI文章总结插件，支持智谱AI、文心大模型、Groq了。</a> - 2024-03-05 12:57:34
-* <a href='https://www.wangdu.site/course/2047.html' target='_blank'>WordPress AI文章总结插件，支持通义千问和星火大模型了。</a> - 2024-02-28 03:38:59
-* <a href='https://www.wangdu.site/course/2046.html' target='_blank'>WordPress插件：V免签-付费内容插件V1.6，拒绝中间商赚差价</a> - 2024-02-25 07:26:11
-* <a href='https://www.wangdu.site/course/2044.html' target='_blank'>WordPress插件：如何让博客支持Gemini AI文章摘要</a> - 2024-02-22 06:42:28
-* <a href='https://www.wangdu.site/software/ai/2037.html' target='_blank'>OpenAI Sora Prompts 合集</a> - 2024-02-19 03:30:46
-* <a href='https://www.wangdu.site/software/ai/2033.html' target='_blank'>使用Coze实现免费使用GPT4和DALL·E 3绘画</a> - 2024-02-07 06:38:24
 <!-- blog ends -->
 
 </td>
