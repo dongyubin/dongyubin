@@ -62,14 +62,14 @@
 ## 🤾‍♂️ <a href="https://www.wangdu.site" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-* <a href='https://www.wangdu.site/software/ai/2104.html' target='_blank'>ChatTTS：最接近人声的开源文本语音转换(TTS)模型</a> - 2024-05-29 03:24:53
-* <a href='https://www.wangdu.site/course/2100.html' target='_blank'>DeepSeek是什么？如何免费获取 DeepSeek 500万 tokens？</a> - 2024-05-20 01:52:58
-* <a href='https://www.wangdu.site/course/2097.html' target='_blank'>如何免费使用ChatGPT-4o、Mac客户端及公益 ChatGPT-4o 服务</a> - 2024-05-14 06:11:04
-* <a href='https://www.wangdu.site/software/ai/2095.html' target='_blank'>2024年最好的15个AI搜索引擎工具集合</a> - 2024-05-11 13:03:40
-* <a href='https://www.wangdu.site/software/2080.html' target='_blank'>iPao：一款AI单栏简约WordPress个人博客主题</a> - 2024-04-27 06:32:07
-* <a href='https://www.wangdu.site/software/ai/2077.html' target='_blank'>Kimi Chat: 一篇解决从介绍到提示词万能公式，附官方提示词</a> - 2024-04-24 08:26:46
-* <a href='https://www.wangdu.site/course/2075.html' target='_blank'>WordPress AI文章摘要生成插件使用指南，支持10款AI大模型</a> - 2024-04-20 06:28:46
-* <a href='https://www.wangdu.site/course/2074.html' target='_blank'>独立开发者指南导航，最懂出海人的合集</a> - 2024-04-18 13:06:29
+* <a href='https://www.wangdu.site/fuliyouhui/2114.html' target='_blank'>阿里云学生300元优惠券领取方法（无门槛代金券）</a> - 2024-06-12 13:50:13
+* <a href='https://www.wangdu.site/fuliyouhui/2112.html' target='_blank'>2024年最高性价比电信移动联通流量卡推荐</a> - 2024-06-12 06:32:17
+* <a href='https://www.wangdu.site/course/2111.html' target='_blank'>2024年高考志愿填报指南，如何轻松选中心仪大学？</a> - 2024-06-11 09:46:53
+* <a href='https://www.wangdu.site/fuliyouhui/2110.html' target='_blank'>Setapp：一键订阅240多款MacOS正版应用</a> - 2024-06-11 08:30:52
+* <a href='https://www.wangdu.site/course/2109.html' target='_blank'>2024年6月国内DockerHub镜像加速器还有哪些可用？</a> - 2024-06-08 14:04:17
+* <a href='https://www.wangdu.site/course/2108.html' target='_blank'>保姆级教程使用Fomepay虚拟信用卡订阅ChatGPT Plus、Onlyfans、Midjourney等AI平台</a> - 2024-06-07 12:52:43
+* <a href='https://www.wangdu.site/software/tools/2107.html' target='_blank'>推荐七款免费可平替Bartender的Mac菜单栏管理工具</a> - 2024-06-06 13:39:54
+* <a href='https://www.wangdu.site/software/bangongyingyong/2106.html' target='_blank'>2024年11款可平替MarginNote的PDF阅读和编辑器</a> - 2024-06-04 13:59:37
 <!-- blog ends -->
 
 </td>
