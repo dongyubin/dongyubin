@@ -62,14 +62,14 @@
 ## 🤾‍♂️ <a href="https://www.wangdu.site" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://www.wangdu.site/software/ai/2121.html' target='_blank'>2024年30+个专业AI导航网站汇总</a> - 2024-06-27 08:14:26
+* <a href='https://www.wangdu.site/fuliyouhui/2116.html' target='_blank'>EthernetServers优惠码和促销活动汇总（2024年6月18日）</a> - 2024-06-18 09:42:39
+* <a href='https://www.wangdu.site/fuliyouhui/2115.html' target='_blank'>CloudCone 美国洛杉矶高性价比便宜 VPS 最新优惠活动(2024年6月)</a> - 2024-06-17 09:15:07
 * <a href='https://www.wangdu.site/fuliyouhui/2114.html' target='_blank'>阿里云学生300元优惠券领取方法（无门槛代金券）</a> - 2024-06-12 13:50:13
 * <a href='https://www.wangdu.site/fuliyouhui/2112.html' target='_blank'>2024年最高性价比电信移动联通流量卡推荐</a> - 2024-06-12 06:32:17
 * <a href='https://www.wangdu.site/course/2111.html' target='_blank'>2024年高考志愿填报指南，如何轻松选中心仪大学？</a> - 2024-06-11 09:46:53
 * <a href='https://www.wangdu.site/fuliyouhui/2110.html' target='_blank'>Setapp：一键订阅240多款MacOS正版应用</a> - 2024-06-11 08:30:52
-* <a href='https://www.wangdu.site/course/2109.html' target='_blank'>2024年6月国内DockerHub镜像加速器还有哪些可用？</a> - 2024-06-08 14:04:17
-* <a href='https://www.wangdu.site/course/2108.html' target='_blank'>保姆级教程使用Fomepay虚拟信用卡订阅ChatGPT Plus、Onlyfans、Midjourney等AI平台</a> - 2024-06-07 12:52:43
-* <a href='https://www.wangdu.site/software/tools/2107.html' target='_blank'>推荐七款免费可平替Bartender的Mac菜单栏管理工具</a> - 2024-06-06 13:39:54
-* <a href='https://www.wangdu.site/software/bangongyingyong/2106.html' target='_blank'>2024年11款可平替MarginNote的PDF阅读和编辑器</a> - 2024-06-04 13:59:37
+* <a href='https://www.wangdu.site/course/2109.html' target='_blank'>国内DockerHub镜像加速器还有哪些可用？(2024年6月26日)</a> - 2024-06-08 14:04:17
 <!-- blog ends -->
 
 </td>
