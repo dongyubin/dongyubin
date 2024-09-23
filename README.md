@@ -62,14 +62,14 @@
 ## 🤾‍♂️ <a href="https://www.wangdu.site" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://www.wangdu.site/software/ai/2150.html' target='_blank'>OpenAI Whisper语音识别文本在线体验及本地部署</a> - 2024-09-12 08:35:27
+* <a href='https://www.wangdu.site/course/2149.html' target='_blank'>ChatGPT-on-WeChat、WordPress、微信公众号：实现具有AI搜索功能的博客公众号</a> - 2024-09-11 07:17:35
+* <a href='https://www.wangdu.site/software/av-read/2146.html' target='_blank'>免费看知乎小说！知乎盐选文章/小说免费网盘、网站</a> - 2024-08-28 03:29:42
+* <a href='https://www.wangdu.site/software/ai/2145.html' target='_blank'>FLUX.1：免费在线体验Stable Diffusion创始团队推出的开源AI图像生成模型</a> - 2024-08-26 08:20:22
+* <a href='https://www.wangdu.site/software/youxiyule/2143.html' target='_blank'>《黑神话：悟空》游戏下载、PC配置、修改器与性能优化指南</a> - 2024-08-22 03:00:51
+* <a href='https://www.wangdu.site/software/av-read/2141.html' target='_blank'>2024年在线免费观看网络短剧网站推荐</a> - 2024-08-09 03:05:20
+* <a href='https://www.wangdu.site/software/av-read/2138.html' target='_blank'>AppStore伪装上架iOS观影追剧神器APP合集（2024年8月26日）</a> - 2024-08-05 06:06:27
 * <a href='https://www.wangdu.site/software/ai/2135.html' target='_blank'>2024年10款国内免费的AI聊天机器人</a> - 2024-07-30 08:14:53
-* <a href='https://www.wangdu.site/software/ai/2134.html' target='_blank'>即梦 Dreamina：抖音出品的AI图片、AI视频生成工具（可免费体验）</a> - 2024-07-24 07:44:04
-* <a href='https://www.wangdu.site/software/ai/2132.html' target='_blank'>Stable Diffusion：一键安装包下载，保姆级安装教程，可在线体验</a> - 2024-07-18 02:51:02
-* <a href='https://www.wangdu.site/software/ui/2131.html' target='_blank'>2024年9款免费好用的Gif录屏神器工具推荐</a> - 2024-07-17 06:47:02
-* <a href='https://www.wangdu.site/software/tools/2130.html' target='_blank'>2024年免费好用的微信公众号文章批量下载工具推荐</a> - 2024-07-15 06:47:21
-* <a href='https://www.wangdu.site/software/tools/2129.html' target='_blank'>2024年好用的局域网文件传输工具推荐</a> - 2024-07-15 02:45:25
-* <a href='https://www.wangdu.site/software/ai/2127.html' target='_blank'>2024年推荐15个AI大模型评测基准和排行榜平台</a> - 2024-07-09 07:31:44
-* <a href='https://www.wangdu.site/software/ai/2126.html' target='_blank'>可灵AI：快手大模型团队自研打造AI图片、AI视频生成工具 （限免）</a> - 2024-07-09 02:01:05
 <!-- blog ends -->
 
 </td>
