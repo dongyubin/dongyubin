@@ -62,14 +62,14 @@
 ## 🤾‍♂️ <a href="https://www.wangdu.site" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-* <a href='https://www.wangdu.site/software/bangongyingyong/2160.html' target='_blank'>Adobe Photoshop 2025 v26.0.0.26 中文绿色激活版</a> - 2024-10-31 06:42:09
-* <a href='https://www.wangdu.site/software/ai/2159.html' target='_blank'>2024年最全ComfyUI资源整合：教程、插件、工作流（可免费体验）</a> - 2024-10-31 02:35:32
-* <a href='https://www.wangdu.site/course/2153.html' target='_blank'>Github Action+Cloudflare R2：打造自动化图床教程</a> - 2024-10-11 08:10:11
-* <a href='https://www.wangdu.site/software/system/2152.html' target='_blank'>Windows11 LTSC 2024 企业精简版 ISO 官方中文原版镜像下载 - 纯净稳定/适合低配置/虚拟机</a> - 2024-10-11 03:12:22
-* <a href='https://www.wangdu.site/software/ai/2150.html' target='_blank'>OpenAI Whisper语音识别文本在线体验及本地部署</a> - 2024-09-12 08:35:27
-* <a href='https://www.wangdu.site/course/2149.html' target='_blank'>ChatGPT-on-WeChat、WordPress、微信公众号：实现具有AI搜索功能的博客公众号</a> - 2024-09-11 07:17:35
-* <a href='https://www.wangdu.site/software/av-read/2146.html' target='_blank'>免费看知乎小说！知乎盐选文章/小说免费网盘、网站</a> - 2024-08-28 03:29:42
-* <a href='https://www.wangdu.site/software/ai/2145.html' target='_blank'>FLUX.1：免费在线体验Stable Diffusion创始团队推出的开源AI图像生成模型</a> - 2024-08-26 08:20:22
+* <a href='https://www.wangdu.site/fuliyouhui/2173.html' target='_blank'>简单2步完成任务，免费领取通义灵码限量帆布包</a> - 2024-11-28 07:12:50
+* <a href='https://www.wangdu.site/fuliyouhui/2171.html' target='_blank'>【国内现货】One Nz：无月租无需实名超低费率的eSim新西兰电话卡</a> - 2024-11-15 09:15:06
+* <a href='https://www.wangdu.site/software/bianchengkaifa/2170.html' target='_blank'>2024年推荐7款免费好用的国内外服务器传输工具</a> - 2024-11-14 08:08:16
+* <a href='https://www.wangdu.site/software/tools/2168.html' target='_blank'>李跳跳·真实好友 v5.0.0 无障碍自动检测微信好友状态工具</a> - 2024-11-09 01:21:35
+* <a href='https://www.wangdu.site/course/wangzhandajian/2167.html' target='_blank'>宝塔面板-V免签支付系统搭建教程：个人开发者收款解决方案（含2开源码）</a> - 2024-11-06 08:06:18
+* <a href='https://www.wangdu.site/fuliyouhui/2165.html' target='_blank'>2024年腾讯云双十一活动，15个月仅需99元</a> - 2024-11-06 03:40:31
+* <a href='https://www.wangdu.site/fuliyouhui/2164.html' target='_blank'>2024年阿里云双十一活动，轻量应用服务器1年仅需36元</a> - 2024-11-06 03:28:23
+* <a href='https://www.wangdu.site/software/ai/2163.html' target='_blank'>xAI 每月免费赠送$25的API额度，兼容 OpenAI 格式</a> - 2024-11-06 01:38:07
 <!-- blog ends -->
 
 </td>
