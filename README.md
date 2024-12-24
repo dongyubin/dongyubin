@@ -62,14 +62,14 @@
 ## 🤾‍♂️ <a href="https://www.wangdu.site" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://www.wangdu.site/software/dianshihezi/2183.html' target='_blank'>纯粹直播TV v1.8.1 重构版，斗鱼B站虎牙抖音快手网易七合一，支持手机PC</a> - 2024-12-23 06:25:28
+* <a href='https://www.wangdu.site/fuliyouhui/2182.html' target='_blank'>BandwagonHost 搬瓦工 美国/日本/香港/CN2GIA/高速稳定 VPS 最新优惠活动(2024年12月)</a> - 2024-12-20 03:58:36
+* <a href='https://www.wangdu.site/software/dianshihezi/2180.html' target='_blank'>2024年22款最新电视家替代品，电视TV直播软件</a> - 2024-12-17 08:17:32
+* <a href='https://www.wangdu.site/software/dianshihezi/2177.html' target='_blank'>可视TV Max双端及多仓接口：可视TV Max 电视版2.0.8、可视TV手机版1.0.4</a> - 2024-12-04 09:41:28
+* <a href='https://www.wangdu.site/fuliyouhui/2175.html' target='_blank'>简单完成4个任务，即可领取通义灵码限量版超大鼠标垫</a> - 2024-12-02 07:48:35
 * <a href='https://www.wangdu.site/fuliyouhui/2173.html' target='_blank'>简单2步完成任务，免费领取通义灵码限量帆布包</a> - 2024-11-28 07:12:50
 * <a href='https://www.wangdu.site/fuliyouhui/2171.html' target='_blank'>【国内现货】One Nz：无月租无需实名超低费率的eSim新西兰电话卡</a> - 2024-11-15 09:15:06
 * <a href='https://www.wangdu.site/software/bianchengkaifa/2170.html' target='_blank'>2024年推荐7款免费好用的国内外服务器传输工具</a> - 2024-11-14 08:08:16
-* <a href='https://www.wangdu.site/software/tools/2168.html' target='_blank'>李跳跳·真实好友 v5.0.0 无障碍自动检测微信好友状态工具</a> - 2024-11-09 01:21:35
-* <a href='https://www.wangdu.site/course/wangzhandajian/2167.html' target='_blank'>宝塔面板-V免签支付系统搭建教程：个人开发者收款解决方案（含2开源码）</a> - 2024-11-06 08:06:18
-* <a href='https://www.wangdu.site/fuliyouhui/2165.html' target='_blank'>2024年腾讯云双十一活动，15个月仅需99元</a> - 2024-11-06 03:40:31
-* <a href='https://www.wangdu.site/fuliyouhui/2164.html' target='_blank'>2024年阿里云双十一活动，轻量应用服务器1年仅需36元</a> - 2024-11-06 03:28:23
-* <a href='https://www.wangdu.site/software/ai/2163.html' target='_blank'>xAI 每月免费赠送$25的API额度，兼容 OpenAI 格式</a> - 2024-11-06 01:38:07
 <!-- blog ends -->
 
 </td>
