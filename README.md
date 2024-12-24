@@ -2,7 +2,7 @@
 
 <img src="https://github-widgetbox.vercel.app/api/profile?username=dongyubin&data=followers,repositories,stars,commits">
 
-<img width="100%" src="https://pic1.xuehuaimg.com/proxy/https://cdn.jsdelivr.net/gh/dongyubin/WP-CDN-02/2022/202205260953848.png" alt="my banner">
+<img width="100%" src="https://b2.wwkejishe.top/WP-CDN-02/2022/202205260953848.png" alt="my banner">
 
 我是『[文武科技社](https://blog.wangdu.site/) & [文武科技柜](https://www.wangdu.site)』的主笔
 
