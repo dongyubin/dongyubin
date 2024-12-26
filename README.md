@@ -52,7 +52,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dongyubin&repo=nuc8i5beh" />
 </a>
 
-<a href="https://github.com/dongyubin/nuc8i5beh">
+<a href="https://github.com/dongyubin/OldClockTodo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dongyubin&repo=OldClockTodo" />
 </a>
 
