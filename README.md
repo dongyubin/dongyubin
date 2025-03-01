@@ -62,14 +62,14 @@
 ## 🤾‍♂️ <a href="https://www.wangdu.site" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://www.wangdu.site/software/tools/2202.html' target='_blank'>DeepSRT 插件：提升 YouTube 体验的智能工具</a> - 2025-02-28 09:39:26
+* <a href='https://www.wangdu.site/software/dianshihezi/2200.html' target='_blank'>（稳定）Windows - 黑鸟播放器播放IPTV直播源教程</a> - 2025-02-26 08:29:09
+* <a href='https://www.wangdu.site/software/ui/2199.html' target='_blank'>2025年8款免费且好用的图片翻译工具</a> - 2025-02-19 08:20:31
+* <a href='https://www.wangdu.site/software/ai/2197.html' target='_blank'>2025年12款免费AI客户端，支持本地部署和API集成</a> - 2025-02-14 09:30:42
+* <a href='https://www.wangdu.site/software/dianshihezi/2195.html' target='_blank'>TVBox：电影及直播于一体的直播APP，播放工具、播放源、使用教程</a> - 2025-02-08 06:35:16
 * <a href='https://www.wangdu.site/software/ai/2193.html' target='_blank'>Cursor是什么？如何免费延长订阅时间及重置使用次数？</a> - 2025-01-21 06:01:28
 * <a href='https://www.wangdu.site/software/dianshihezi/2191.html' target='_blank'>不同品牌电视机顶盒和电视机安装第三方应用软件的安装方法</a> - 2025-01-21 02:08:03
 * <a href='https://www.wangdu.site/software/ai/2189.html' target='_blank'>逗逗游戏伙伴 - 游戏爱好者设计的AI桌宠应用</a> - 2025-01-10 08:06:18
-* <a href='https://www.wangdu.site/software/ai/2188.html' target='_blank'>白日梦AI-轻松将文字转成视频</a> - 2025-01-07 03:23:22
-* <a href='https://www.wangdu.site/software/dianshihezi/2186.html' target='_blank'>野草助手 - 电视盒子必备安装应用的应用管理工具</a> - 2025-01-02 03:31:32
-* <a href='https://www.wangdu.site/software/dianshihezi/2184.html' target='_blank'>如何在电脑上用PotPlayer看肥羊的电视直播</a> - 2024-12-25 02:30:43
-* <a href='https://www.wangdu.site/software/dianshihezi/2183.html' target='_blank'>纯粹直播TV v1.8.1 重构版，斗鱼B站虎牙抖音快手网易七合一，支持手机PC</a> - 2024-12-23 06:25:28
-* <a href='https://www.wangdu.site/fuliyouhui/2182.html' target='_blank'>BandwagonHost 搬瓦工 美国/日本/香港/CN2GIA/高速稳定 VPS 最新优惠活动(2024年12月)</a> - 2024-12-20 03:58:36
 <!-- blog ends -->
 
 </td>
