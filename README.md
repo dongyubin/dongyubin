@@ -62,14 +62,14 @@
 ## 🤾‍♂️ <a href="https://www.wangdu.site" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://www.wangdu.site/software/ai/2211.html' target='_blank'>用AI驱动浏览器自动化：探索browser-use的创新与实践</a> - 2025-03-28 01:58:09
+* <a href='https://www.wangdu.site/software/ai/2210.html' target='_blank'>ChatGPT4o 图像生成是什么？  如何免费体验？</a> - 2025-03-27 14:43:57
+* <a href='https://www.wangdu.site/software/ai/2209.html' target='_blank'>Spark-TTS是什么？基于 Qwen2.5 的下一代文本转语音系统</a> - 2025-03-27 09:27:17
+* <a href='https://www.wangdu.site/software/ai/2207.html' target='_blank'>MCP Server 是什么？MCP Server 服务推荐及使用教程</a> - 2025-03-27 08:10:50
+* <a href='https://www.wangdu.site/software/ai/2205.html' target='_blank'>QwQ-32B是什么？如何免费使用QwQ-32B？</a> - 2025-03-13 01:52:21
+* <a href='https://www.wangdu.site/software/dianshihezi/2203.html' target='_blank'>天光云影添加IPTV直播源使用教程</a> - 2025-03-04 08:17:59
 * <a href='https://www.wangdu.site/software/tools/2202.html' target='_blank'>DeepSRT 插件：提升 YouTube 体验的智能工具</a> - 2025-02-28 09:39:26
 * <a href='https://www.wangdu.site/software/dianshihezi/2200.html' target='_blank'>（稳定）Windows - 黑鸟播放器播放IPTV直播源教程</a> - 2025-02-26 08:29:09
-* <a href='https://www.wangdu.site/software/ui/2199.html' target='_blank'>2025年8款免费且好用的图片翻译工具</a> - 2025-02-19 08:20:31
-* <a href='https://www.wangdu.site/software/ai/2197.html' target='_blank'>2025年12款免费AI客户端，支持本地部署和API集成</a> - 2025-02-14 09:30:42
-* <a href='https://www.wangdu.site/software/dianshihezi/2195.html' target='_blank'>TVBox：电影及直播于一体的直播APP，播放工具、播放源、使用教程</a> - 2025-02-08 06:35:16
-* <a href='https://www.wangdu.site/software/ai/2193.html' target='_blank'>Cursor是什么？如何免费延长订阅时间及重置使用次数？</a> - 2025-01-21 06:01:28
-* <a href='https://www.wangdu.site/software/dianshihezi/2191.html' target='_blank'>不同品牌电视机顶盒和电视机安装第三方应用软件的安装方法</a> - 2025-01-21 02:08:03
-* <a href='https://www.wangdu.site/software/ai/2189.html' target='_blank'>逗逗游戏伙伴 - 游戏爱好者设计的AI桌宠应用</a> - 2025-01-10 08:06:18
 <!-- blog ends -->
 
 </td>
