@@ -62,14 +62,14 @@
 ## 🤾‍♂️ <a href="https://www.wangdu.site" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://www.wangdu.site/software/ai/2224.html' target='_blank'>探索DeepWiki：代码世界的智能百科全书</a> - 2025-04-29 09:33:27
+* <a href='https://www.wangdu.site/software/ai/2223.html' target='_blank'>Qwen3：大型语言模型的新里程碑（内含免费API）</a> - 2025-04-29 09:02:49
+* <a href='https://www.wangdu.site/software/ai/2222.html' target='_blank'>探索扣子空间：开启AI智能体的无限可能（内含邀请码）</a> - 2025-04-28 08:01:56
+* <a href='https://www.wangdu.site/fuliyouhui/guonei-vps/2218.html' target='_blank'>野草云：香港、美国云服务器/VPS/独立服务器优惠活动整理（2025年4月）</a> - 2025-04-25 08:19:37
+* <a href='https://www.wangdu.site/software/ai/2216.html' target='_blank'>字节Trae：小白也可以轻松上手AI编程了。</a> - 2025-04-18 08:58:47
+* <a href='https://www.wangdu.site/software/ai/2215.html' target='_blank'>Nanobrowser是什么？一款免费开源的 AI Web 自动化工具</a> - 2025-04-15 08:55:02
+* <a href='https://www.wangdu.site/software/meihuasucai/2213.html' target='_blank'>2025年10+个免费商用字体和 WebFonts 字体 CDN 服务网站</a> - 2025-04-03 07:56:44
 * <a href='https://www.wangdu.site/software/ai/2211.html' target='_blank'>用AI驱动浏览器自动化：探索browser-use的创新与实践</a> - 2025-03-28 01:58:09
-* <a href='https://www.wangdu.site/software/ai/2210.html' target='_blank'>ChatGPT4o 图像生成是什么？  如何免费体验？</a> - 2025-03-27 14:43:57
-* <a href='https://www.wangdu.site/software/ai/2209.html' target='_blank'>Spark-TTS是什么？基于 Qwen2.5 的下一代文本转语音系统</a> - 2025-03-27 09:27:17
-* <a href='https://www.wangdu.site/software/ai/2207.html' target='_blank'>MCP Server 是什么？MCP Server 服务推荐及使用教程</a> - 2025-03-27 08:10:50
-* <a href='https://www.wangdu.site/software/ai/2205.html' target='_blank'>QwQ-32B是什么？如何免费使用QwQ-32B？</a> - 2025-03-13 01:52:21
-* <a href='https://www.wangdu.site/software/dianshihezi/2203.html' target='_blank'>天光云影添加IPTV直播源使用教程</a> - 2025-03-04 08:17:59
-* <a href='https://www.wangdu.site/software/tools/2202.html' target='_blank'>DeepSRT 插件：提升 YouTube 体验的智能工具</a> - 2025-02-28 09:39:26
-* <a href='https://www.wangdu.site/software/dianshihezi/2200.html' target='_blank'>（稳定）Windows - 黑鸟播放器播放IPTV直播源教程</a> - 2025-02-26 08:29:09
 <!-- blog ends -->
 
 </td>
