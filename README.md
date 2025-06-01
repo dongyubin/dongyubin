@@ -62,6 +62,7 @@
 ## 🤾‍♂️ <a href="https://www.wangdu.site" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://www.wangdu.site/software/ai/2227.html' target='_blank'>2025年国内外免费AI绘图大比拼：腾讯元宝、通义万相、豆包等10款平台「德州扒鸡创意胶囊」实测</a> - 2025-05-07 08:47:23
 * <a href='https://www.wangdu.site/software/ai/2224.html' target='_blank'>探索DeepWiki：代码世界的智能百科全书</a> - 2025-04-29 09:33:27
 * <a href='https://www.wangdu.site/software/ai/2223.html' target='_blank'>Qwen3：大型语言模型的新里程碑（内含免费API）</a> - 2025-04-29 09:02:49
 * <a href='https://www.wangdu.site/software/ai/2222.html' target='_blank'>探索扣子空间：开启AI智能体的无限可能（内含邀请码）</a> - 2025-04-28 08:01:56
@@ -69,7 +70,6 @@
 * <a href='https://www.wangdu.site/software/ai/2216.html' target='_blank'>字节Trae：小白也可以轻松上手AI编程了。</a> - 2025-04-18 08:58:47
 * <a href='https://www.wangdu.site/software/ai/2215.html' target='_blank'>Nanobrowser是什么？一款免费开源的 AI Web 自动化工具</a> - 2025-04-15 08:55:02
 * <a href='https://www.wangdu.site/software/meihuasucai/2213.html' target='_blank'>2025年10+个免费商用字体和 WebFonts 字体 CDN 服务网站</a> - 2025-04-03 07:56:44
-* <a href='https://www.wangdu.site/software/ai/2211.html' target='_blank'>用AI驱动浏览器自动化：探索browser-use的创新与实践</a> - 2025-03-28 01:58:09
 <!-- blog ends -->
 
 </td>
