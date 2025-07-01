@@ -62,6 +62,7 @@
 ## 🤾‍♂️ <a href="https://www.wangdu.site" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://www.wangdu.site/software/dianshihezi/2238.html' target='_blank'>APTV如何添加在线IPTV直播源</a> - 2025-06-30 08:16:39
 * <a href='https://www.wangdu.site/software/dianshihezi/2235.html' target='_blank'>TiviMate 如何添加 m3u 在线直播源</a> - 2025-06-26 06:47:34
 * <a href='https://www.wangdu.site/software/dianshihezi/2234.html' target='_blank'>Televizo 如何添加 m3u 在线直播源</a> - 2025-06-26 06:46:39
 * <a href='https://www.wangdu.site/software/bianchengkaifa/2233.html' target='_blank'>2025年5款可自部署的 Google Analytics 替代方案</a> - 2025-06-24 08:49:02
@@ -69,7 +70,6 @@
 * <a href='https://www.wangdu.site/software/tools/2230.html' target='_blank'>2025年7款平替 AList 私有部署的网盘软件</a> - 2025-06-12 03:57:45
 * <a href='https://www.wangdu.site/software/ai/2227.html' target='_blank'>2025年国内外免费AI绘图大比拼：腾讯元宝、通义万相、豆包等10款平台「德州扒鸡创意胶囊」实测</a> - 2025-05-07 08:47:23
 * <a href='https://www.wangdu.site/software/ai/2224.html' target='_blank'>探索DeepWiki：代码世界的智能百科全书</a> - 2025-04-29 09:33:27
-* <a href='https://www.wangdu.site/software/ai/2223.html' target='_blank'>Qwen3：大型语言模型的新里程碑（内含免费API）</a> - 2025-04-29 09:02:49
 <!-- blog ends -->
 
 </td>
